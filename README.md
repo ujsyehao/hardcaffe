@@ -1,4 +1,11 @@
-# hardcaffe
-
+hardcaffe
+============================================
+## dependencies update
 * support for protoc version 3.0 or higher
 * supoort for cudnn version 6.0 or higher
+
+## layer update
+* support for ResizeBilinear layer(equal to tf.image.resize_bilinear operator)
+
+## doing
+1. modidy caffe/cudnn padding to tensorflow padding
