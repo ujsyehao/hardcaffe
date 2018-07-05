@@ -6,6 +6,7 @@ hardcaffe
 
 ## layer update
 * support for ResizeBilinear layer(equal to tf.image.resize_bilinear operator)
+* support for Relu6 layer(equal to tf.relu6)
 
 ## doing
 1. modidy caffe/cudnn padding to tensorflow padding
