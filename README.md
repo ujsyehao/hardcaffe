@@ -9,7 +9,7 @@ hardcaffe
 * support for Relu6 layer(equal to tf.relu6 operator)
 
 ## TODO
-1. modidy caffe/cudnn padding to tensorflow padding
+1. modidy caffe/cudnn symmetric padding to tensorflow asymmetric padding
 
 ## Contributor
 RuiminChen https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6
