@@ -12,3 +12,4 @@ hardcaffe
 1. modidy caffe/cudnn padding to tensorflow padding
 
 ## Contributor
+RuiminChen https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6
