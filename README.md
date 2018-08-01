@@ -7,6 +7,7 @@ hardcaffe
 ## layer update
 * support for ResizeBilinear layer(equal to tf.image.resize_bilinear operator)
 * support for Relu6 layer(equal to tf.relu6 operator)
+* support for shuffle layer
 
 ## TODO
 1. modidy caffe/cudnn symmetric padding to tensorflow asymmetric padding
