@@ -10,9 +10,17 @@ hardcaffe
 * support for shuffle layer
 * support for depthwise convolution
 
+## SSD detection
+* support for soft-nms
+* support for focal loss
+
 
 ## TODO
 1. modidy caffe/cudnn symmetric padding to tensorflow asymmetric padding -> use pad + slice
 
+
+
+
 ## Contributor
 RuiminChen https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6
+
