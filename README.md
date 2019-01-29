@@ -12,7 +12,7 @@ hardcaffe
 
 
 ## TODO
-1. modidy caffe/cudnn symmetric padding to tensorflow asymmetric padding
+1. modidy caffe/cudnn symmetric padding to tensorflow asymmetric padding -> use pad + slice
 
 ## Contributor
 RuiminChen https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6
