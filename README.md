@@ -10,6 +10,9 @@ hardcaffe
 * support for shuffle layer
 * support for depthwise convolution
 
+## algorithm update
+* support for soft-nms
+
 
 ## TODO
 1. modidy caffe/cudnn symmetric padding to tensorflow asymmetric padding
